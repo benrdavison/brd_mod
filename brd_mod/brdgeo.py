@@ -6,8 +6,8 @@ from scipy.integrate import quad
 import sys
 import os
 import logging
-from brd_mod.stats import *
-from brd_mod.econ import *
+from brd_mod.brdstats import *
+from brd_mod.brdecon import *
 
 
 def meter_to_mi(x):

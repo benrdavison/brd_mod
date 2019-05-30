@@ -1,3 +1,3 @@
-from brd_mod.stats import *
-from brd_mod.geo import *
-from brd_mod.econ import *
+from brd_mod.brdstats import *
+from brd_mod.brdgeo import *
+from brd_mod.brdecon import *

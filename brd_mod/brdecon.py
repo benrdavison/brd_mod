@@ -10,8 +10,8 @@ from scipy import log,exp,sqrt,stats
 import sys
 import os
 import logging
-from brd_mod.stats import *
-from brd_mod.geo import *
+from brd_mod.brdstats import *
+from brd_mod.brdgeo import *
 
 
 def discrete_future_value(x,r,n):

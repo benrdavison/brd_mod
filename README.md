@@ -1,2 +1,1 @@
-# brd_mod
-A small library containing various statistic, econometric, financial, and geospatial functions
+A small library containing various statistical, econometric, financial, and geospatial functions
